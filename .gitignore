@@ -2,3 +2,6 @@
 *.rar
 *.zip
 *.tar.gz
+
+# Checkpoints
+.ipynb_checkpoints
