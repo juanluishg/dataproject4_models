@@ -3,9 +3,10 @@
 *.zip
 *.tar.gz
 
-# Checkpoints
+# Config files
 .ipynb_checkpoints
 .vscode
+.DS_Store
 
 #Scripts
 *.sh
