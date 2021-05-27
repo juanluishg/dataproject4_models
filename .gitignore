@@ -6,3 +6,6 @@
 # Checkpoints
 .ipynb_checkpoints
 .vscode
+
+#Scripts
+*.sh
