@@ -2,6 +2,7 @@
 *.rar
 *.zip
 *.tar.gz
+*.npz
 
 # Config files
 .ipynb_checkpoints
